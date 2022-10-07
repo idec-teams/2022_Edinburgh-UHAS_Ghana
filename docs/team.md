@@ -12,7 +12,7 @@
 <div class="row">
       <div class="column">
     <figure>
-      <img src="../team_pics/team-dev.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-dev.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Dev</li>
@@ -27,7 +27,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-maarten.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-maarten.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Maarten</li>
@@ -42,7 +42,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-zackman.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src=https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-zackman.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Zachary</li>
@@ -58,7 +58,7 @@
 <div class="row">
   <div class="column">
     <figure>
-      <img src="../team_pics/team-david.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-david.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: David</li>
@@ -74,7 +74,7 @@
 </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-deez.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-deez.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Serafina</li>
@@ -89,7 +89,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-diana.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-diana.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Diana</li>
@@ -106,7 +106,7 @@
 <div class="row">
   <div class="column">
     <figure>
-      <img src="../team_pics/team-will.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-will.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Will</li>
@@ -121,7 +121,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-xianliang.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-xianliang.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Xianliang</li>
@@ -136,7 +136,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-luna.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-luna.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Luna</li>
@@ -156,7 +156,7 @@
 <div class="row">
   <div class="column">
     <figure>
-      <img src="../team_pics/team-darlington.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-darlington.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Darlington Acquah</li>
@@ -172,7 +172,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-stanley.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-stanley.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Stanley</li>
@@ -188,7 +188,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-charity.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-charity.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Charity Serwaa</li>
@@ -210,7 +210,7 @@
 <div class="row">
   <div class="column">
     <figure>
-      <img src="../team_pics/team-nadanai.png" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-nadanai.png" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Dr. Nadanai Laohakunakorn</li>
@@ -223,7 +223,7 @@
 </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-chris.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-chris.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Prof. Chris French</li>
@@ -237,7 +237,7 @@
 
   <div class="column">
     <figure>
-      <img src="../team_pics/team-arin.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-arin.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Arin Wongprommoon</li>
@@ -249,7 +249,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src="../team_pics/team-michael.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-michael.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Michael Stam</li>
