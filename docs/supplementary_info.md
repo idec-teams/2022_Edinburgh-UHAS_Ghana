@@ -1,5 +1,6 @@
 # Supplementary info
 
+Guide for the Supplementary Information: 
 <ul>
   <li><b>S.1 Detailed JUMP explanations</b>
   <br>A detailed table of parts used for our DNA assemblies.</li>
