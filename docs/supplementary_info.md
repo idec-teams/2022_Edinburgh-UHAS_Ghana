@@ -1,6 +1,6 @@
 # Supplementary info
 
-<ul style="list-type: none;">
+<ul style="list-style: none;">
   <li><b>S.1 Detailed JUMP explanations</b></li>
   <li>A detailed table of parts used for our DNA assemblies.</li>
   <li><b>S.2. DNA sequences of all parts </b></li>
