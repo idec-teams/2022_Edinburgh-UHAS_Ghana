@@ -12,7 +12,7 @@
 <div class="row">
       <div class="column">
     <figure>
-      <img src="../../team_pics/team-dev.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="../team_pics/team-dev.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Dev</li>
