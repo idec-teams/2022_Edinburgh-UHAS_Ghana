@@ -1,7 +1,7 @@
 # Design
 
 <figure>
-<img src="../../figures/design-1.png" style="width: 50vw; left: 0; right: 0; display: block; margin: auto;">
+<img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/figures/design-1.png?raw=true" style="width: 50vw; left: 0; right: 0; display: block; margin: auto;">
 </figure> 
 
 ### Dry Lab
@@ -17,7 +17,7 @@ Additionally, to help with research in the domain of metallothionein directed ev
 Error prone PCR can be used for generating mutant libraries by using a low-fidelity DNA polymerase (Taq M0267) which lacks 3’ to 5’ exonuclease proof-reading abilities (Wilson and Keefe, 2001). Increasing MgCl2 concentrations is another way to increase mutation rates by reducing DNA polymerase fidelity. To manipulate the kinds of mutations being incorporated, the concentrations of dNTPs can be varied to increase the likelihood that dNTPs present at higher concentrations are incorporated into the newly replicated strand.  
 
 <figure>
-<img src="../../figures/design-2.png" style="width: 50vw; left: 0; right: 0; display: block; margin: auto;">
+<img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/figures/design-2.png?raw=true" style="width: 50vw; left: 0; right: 0; display: block; margin: auto;">
 </figure>
 
 We generated our MT mutant libraries using error-prone PCR under the abovementioned conditions. Based on the assumption that metal-binding capacity is a function of cysteine content, we increased the concentration of dTTPs to increase the incorporation of uracil point mutations in the transcript which would correspond to more UGU and UGC codons encoding more cysteines (Coyle et al. 2002).  
