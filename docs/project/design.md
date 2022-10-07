@@ -1,7 +1,7 @@
 # Design
 
 <figure>
-<img src="https://static.igem.wiki/teams/4390/wiki/dev/design-figure.png" style="width: 50vw; left: 0; right: 0; display: block; margin: auto;">
+<img src="../../figures/design-1.png" style="width: 50vw; left: 0; right: 0; display: block; margin: auto;">
 </figure> 
 
 ### Dry Lab
