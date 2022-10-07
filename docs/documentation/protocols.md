@@ -8,8 +8,33 @@
 <li> Dilute DNA down to 1 ng/uL </li>
 <li> Set up the reaction using the table below 
 <br>
-Insert table
-<br>
+<table>
+    <tr>
+        <td>PCR standard buffer&nbsp;</td>
+        <td>dNTP mix&nbsp;</td>
+        <td>55 mM MgCl2&nbsp;</td>
+        <td>0.01 mM MnCl2&nbsp;</td>
+        <td>FWD Primer&nbsp;</td>
+        <td>REV Primer&nbsp;</td>
+        <td>Taq Polymerase&nbsp;</td>
+        <td>Plasmid DNA&nbsp;</td>
+        <td>H2O&nbsp;</td>
+        <td>Total&nbsp;</td>
+    </tr>
+    <tr>
+        <td>5 uL&nbsp;</td>
+        <td>5 uL&nbsp;</td>
+        <td>5 uL&nbsp;</td>
+        <td>0.5 uL&nbsp;</td>
+        <td>1.5 uL&nbsp;</td>
+        <td>1.5 uL&nbsp;</td>
+        <td>0.5 uL&nbsp;</td>
+        <td>~ 5 ng&nbsp;&nbsp;</td>
+        <td>to 50 uL&nbsp;</td>
+        <td>50 uL&nbsp;</td>
+    </tr>
+</table>
+  <br>
 dNTP concentrations were varied for each base (3.5 mM dATP, 4 mM dCTP, 6mM dGTP, 13.5 mM dTTP) to promote mutations 
 
 <li> Then run PCR using the cycling information as follows: 
@@ -35,12 +60,94 @@ elongation at 68°C for 5 mins then held at 4°C.
 <li> Freeze 5 uL cell suspension at -20°C for at least 10 minutes </li>
 <li> Prepare the master mix following the table below 
 <br>
-Insert table
-</li>
+<table>
+    <tr>
+        <td>Component&nbsp;&nbsp;</td>
+        <td>Final Concentration&nbsp;&nbsp;</td>
+        <td>µL in final reaction&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>5x GoTaq buffer&nbsp;&nbsp;</td>
+        <td>1x&nbsp;</td>
+        <td>4&nbsp;</td>
+    </tr>
+    <tr>
+        <td>10mM dNTP mix&nbsp;</td>
+        <td>0.2mM&nbsp;</td>
+        <td>0.5&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Forward Primer PS1 10µM&nbsp;</td>
+        <td>0.1 - 1µM&nbsp;</td>
+        <td>2&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Reverse Primer PS2 10µM&nbsp;</td>
+        <td>0.1 - 1µM&nbsp;</td>
+        <td>2&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Cell Suspension&nbsp;&nbsp;</td>
+        <td>5µL&nbsp;</td>
+        <td>5&nbsp;</td>
+    </tr>
+    <tr>
+        <td>GoTaq polymerase&nbsp;&nbsp;</td>
+        <td>1.25 units&nbsp;</td>
+        <td>0.1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Deionised water&nbsp;&nbsp;</td>
+        <td>Total 20µL&nbsp;</td>
+        <td>6.5</td>
+    </tr>
+</table>
+  </li>
 <li> Mix the master mix with 5 uL cell suspension (DNA template) and PCR according to the condition in the table below 
 <br>
-Insert table
-</li>
+<table>
+    <tr>
+        <td>Temperature&nbsp;</td>
+        <td>Time&nbsp;</td>
+        <td>Cycle&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Initial denaturation&nbsp;</td>
+        <td>95°C&nbsp;</td>
+        <td>2 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Denaturation&nbsp;</td>
+        <td>95°C&nbsp;</td>
+        <td>1 min&nbsp;</td>
+        <td>25&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Annealing&nbsp;</td>
+        <td>58°C&nbsp;</td>
+        <td>1 min&nbsp;</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Extension&nbsp;</td>
+        <td>72°C&nbsp;</td>
+        <td>1 min&nbsp;&nbsp;</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Final extension&nbsp;</td>
+        <td>72°C&nbsp;</td>
+        <td>5 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Hold&nbsp;</td>
+        <td>4°C&nbsp;</td>
+        <td>∞</td>
+    </tr>
+</table>
+  </li>
 <li>Run the PCR product on 1% agarose gel at 100 V for 40 minutes and visualise the result under UV exposition</li>
 </ol>
 
@@ -55,9 +162,79 @@ Insert table
 <li>Incubate the reaction following the tables below <br><br>
 
 <u>Level 0 assembly: BsmBI</u><br>
-Insert table<br><br>
+<table>
+    <tr>
+        <td>Temperature&nbsp;</td>
+        <td>Time&nbsp;</td>
+        <td>Cycle&nbsp;</td>
+    </tr>
+    <tr>
+        <td>42°C&nbsp;</td>
+        <td>15 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>42°C&nbsp;</td>
+        <td>3 min&nbsp;</td>
+        <td>30&nbsp;</td>
+    </tr>
+    <tr>
+        <td>16°C&nbsp;</td>
+        <td>3 min&nbsp;</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>55°C&nbsp;</td>
+        <td>15 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>80°C&nbsp;</td>
+        <td>5 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>10°C&nbsp;</td>
+        <td>∞</td>
+    </tr>
+</table><br><br>
 <u>Level 1 assembly: BsaI-HF</u><br>
-Insert table<br>
+<table>
+    <tr>
+        <td>Temperature&nbsp;</td>
+        <td>Time&nbsp;</td>
+        <td>Cycle&nbsp;</td>
+    </tr>
+    <tr>
+        <td>37°C&nbsp;</td>
+        <td>15 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>37°C&nbsp;</td>
+        <td>5 min&nbsp;</td>
+        <td>60&nbsp;</td>
+    </tr>
+    <tr>
+        <td>16°C&nbsp;</td>
+        <td>5 min&nbsp;</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>37°C&nbsp;</td>
+        <td>60 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>80°C&nbsp;</td>
+        <td>5 min&nbsp;</td>
+        <td>1&nbsp;</td>
+    </tr>
+    <tr>
+        <td>10°C&nbsp;</td>
+        <td>∞</td>
+    </tr>
+</table><br>
 
 </li>
 <li>Transform the reaction directly to the competent cells </li>
@@ -93,7 +270,68 @@ Insert table<br>
 
 <ol>
 <li>Prepare the AgNO<sub>3</sub> stock solution (0.256 mg/mL) in a dark room </li>
-<li>Using molten LB agar at 50°C to pour the plates add the stock solution using the table below to make the correct plates: <br><br> Insert table</li>
+<li>Using molten LB agar at 50°C to pour the plates add the stock solution using the table below to make the correct plates: <br><br> <table>
+    <tr>
+        <td>AgNO3 concentration (mg/L)&nbsp;</td>
+        <td>AgNO3 stock solution volume (μL)&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>8&nbsp;</td>
+        <td>1.563&nbsp;</td>
+    </tr>
+    <tr>
+        <td>10&nbsp;</td>
+        <td>1.953&nbsp;</td>
+    </tr>
+    <tr>
+        <td>12&nbsp;</td>
+        <td>2.344&nbsp;</td>
+    </tr>
+    <tr>
+        <td>14&nbsp;</td>
+        <td>2.734&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>&nbsp;16&nbsp;&nbsp;</td>
+        <td>3.130&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>17&nbsp;&nbsp;</td>
+        <td>3.330&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>18&nbsp;&nbsp;</td>
+        <td>3.520&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>19&nbsp;&nbsp;</td>
+        <td>3.720&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>20&nbsp;&nbsp;</td>
+        <td>3.910&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>22&nbsp;&nbsp;</td>
+        <td>4.300&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>24&nbsp;&nbsp;</td>
+        <td>4.690&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>26&nbsp;&nbsp;</td>
+        <td>5.080&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>28&nbsp;&nbsp;</td>
+        <td>5.470&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td>30&nbsp;&nbsp;</td>
+        <td>5.860</td>
+    </tr>
+</table></li>
 <li>Adding the above-stated volumes of AgNO<sub>3</sub> to 50 mL LB agar produces 2 silver plates of 25mL each.  
 </ol>
 
@@ -101,6 +339,27 @@ Insert table<br>
 
 <ol>
 <li>The DNA concentration of the purified plasmid is to be determined via Nanodrop </li>
-<li>A reaction mixture is made up as follows: <br><br> Insert table
+<li>A reaction mixture is made up as follows: <br><br> <table>
+    <tr>
+        <td>Reagent&nbsp;</td>
+        <td>Final concentration&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Plasmid DNA&nbsp;</td>
+        <td>50 ng/µL&nbsp;</td>
+    </tr>
+    <tr>
+        <td>EcoRI&nbsp;</td>
+        <td>1.25 U/µL&nbsp;</td>
+    </tr>
+    <tr>
+        <td>10X CutSmart buffer&nbsp;</td>
+        <td>1X&nbsp;</td>
+    </tr>
+    <tr>
+        <td>H20&nbsp;</td>
+        <td>To 20 µL</td>
+    </tr>
+</table>
 <li>The reaction mixture is incubated at 37 °C for an hour </li>
 <li>Digested DNA is run on a 1% agarose gel at 100 V for 40 minutes, then imaged under UV light </li>
