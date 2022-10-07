@@ -42,7 +42,7 @@
   </div>
   <div class="column">
     <figure>
-      <img src=https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-zackman.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
+      <img src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/main/team_pics/team-zackman.jpeg" style="display: block; left: 0; right: 0; margin: auto; width: 15vw;">
       <figcaption>
         <ul style="list-style:none;">
           <li>Name: Zachary</li>
