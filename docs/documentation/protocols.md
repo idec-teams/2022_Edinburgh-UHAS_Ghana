@@ -110,6 +110,7 @@ elongation at 68°C for 5 mins then held at 4°C.
         <td>Temperature&nbsp;</td>
         <td>Time&nbsp;</td>
         <td>Cycle&nbsp;</td>
+        <td></td>
     </tr>
     <tr>
         <td>Initial denaturation&nbsp;</td>
@@ -121,25 +122,23 @@ elongation at 68°C for 5 mins then held at 4°C.
         <td>Denaturation&nbsp;</td>
         <td>95°C&nbsp;</td>
         <td>1 min&nbsp;</td>
-        <td>25&nbsp;</td>
+        <td rowspan="3">25&nbsp;</td>
     </tr>
     <tr>
         <td>Annealing&nbsp;</td>
         <td>58°C&nbsp;</td>
         <td>1 min&nbsp;</td>
-        <td></td>
     </tr>
     <tr>
         <td>Extension&nbsp;</td>
         <td>72°C&nbsp;</td>
         <td>1 min&nbsp;&nbsp;</td>
-        <td></td>
     </tr>
     <tr>
         <td>Final extension&nbsp;</td>
         <td>72°C&nbsp;</td>
         <td>5 min&nbsp;</td>
-        <td>1&nbsp;</td>
+        <td rowspan="2">1&nbsp;</td>
     </tr>
     <tr>
         <td>Hold&nbsp;</td>
@@ -176,12 +175,11 @@ elongation at 68°C for 5 mins then held at 4°C.
     <tr>
         <td>42°C&nbsp;</td>
         <td>3 min&nbsp;</td>
-        <td>30&nbsp;</td>
+        <td rowspan="2">30&nbsp;</td>
     </tr>
     <tr>
         <td>16°C&nbsp;</td>
         <td>3 min&nbsp;</td>
-        <td></td>
     </tr>
     <tr>
         <td>55°C&nbsp;</td>
@@ -191,7 +189,7 @@ elongation at 68°C for 5 mins then held at 4°C.
     <tr>
         <td>80°C&nbsp;</td>
         <td>5 min&nbsp;</td>
-        <td>1&nbsp;</td>
+        <td rowspan="2">1&nbsp;</td>
     </tr>
     <tr>
         <td>10°C&nbsp;</td>
@@ -213,12 +211,11 @@ elongation at 68°C for 5 mins then held at 4°C.
     <tr>
         <td>37°C&nbsp;</td>
         <td>5 min&nbsp;</td>
-        <td>60&nbsp;</td>
+        <td rownspan="2">60&nbsp;</td>
     </tr>
     <tr>
         <td>16°C&nbsp;</td>
         <td>5 min&nbsp;</td>
-        <td></td>
     </tr>
     <tr>
         <td>37°C&nbsp;</td>
@@ -228,7 +225,7 @@ elongation at 68°C for 5 mins then held at 4°C.
     <tr>
         <td>80°C&nbsp;</td>
         <td>5 min&nbsp;</td>
-        <td>1&nbsp;</td>
+        <td rowspan="2">1&nbsp;</td>
     </tr>
     <tr>
         <td>10°C&nbsp;</td>
