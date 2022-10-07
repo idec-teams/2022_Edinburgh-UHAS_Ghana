@@ -28,7 +28,7 @@ To establish the MIC of untransformed BL21(DE3) and TOP10 cells, they were plate
 
 <i><b>Error prone PCR mutant library generation</b></i>
 
-Error prone (EP) PCR was used to generate a mutant library of MTs (See Design Section). A higher concentration of dTTPs was used which would increase the chance of mutations with Uracil in the transcript. This is favourable for UGU and UGC as outcomes, which are the codons for cysteine (Section 4.3).  
+Error prone (EP) PCR was used to generate a mutant library of MTs (<a href="../design/">see Design section</a>). A higher concentration of dTTPs was used which would increase the chance of mutations with Uracil in the transcript. This is favourable for UGU and UGC as outcomes, which are the codons for cysteine (Section 4.3).  
 
 The mutated PCR products were double-stranded linear fragments of DNA which were assembled into the ORF of pJUMP29-1A(lacZ) level 1 plasmids containing a constitutive promoter (J23100), using level 0 parts (<a href="../../supplementary_info/">see Supplementary Information S.1</a>) following the JUMP assembly protocol (Valenzuela-Ortega and French, 2021). The same assembly method was used to generate WT MT expression plasmids.  
 
