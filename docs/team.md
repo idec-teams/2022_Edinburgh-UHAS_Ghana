@@ -34,7 +34,7 @@
           <li>Age: 20</li>
           <li>Degree: Biological Sciences (<i>Hons</i> Molecular Biology) </li>
           <li>Where am I from: Germany</li>
-          <li>Role: Team leader </li>
+          <li>Role: Team Leader </li>
           <li>Hobbies: Playing guitar, listening to guitar, reading about guitars, buying guitars, looking at guitars, playing the four string guitar (bass), hiking, cooking</li>
         </ul>
       </figcaption>
