@@ -1,3 +1,3 @@
 # Lab notebooks
 
-<embed src="https://github.com/idec-teams/2022_Edinburgh-UHAS_Ghana/blob/8e6dde90781694511692eac29ea295f23eb96632/Lab_notebook.pdf" style="height: 80vh; width: 50vw;">
+<embed src="https://raw.githubusercontent.com/idec-teams/2022_Edinburgh-UHAS_Ghana/d7e35824979d5b73b229701e504e198ac026e0e6/Lab_notebook.pdf" style="height: 80vh; width: 50vw;">
