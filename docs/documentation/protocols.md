@@ -211,7 +211,7 @@ elongation at 68°C for 5 mins then held at 4°C.
     <tr>
         <td>37°C&nbsp;</td>
         <td>5 min&nbsp;</td>
-        <td rownspan="2">60&nbsp;</td>
+        <td rowspan="2">60&nbsp;</td>
     </tr>
     <tr>
         <td>16°C&nbsp;</td>
