@@ -50,3 +50,4 @@ nav:
   - Documentation:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
+      - Data: documentation/data.md
